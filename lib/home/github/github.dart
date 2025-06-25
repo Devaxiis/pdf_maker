@@ -10,6 +10,11 @@ class GithubPage extends StatefulWidget {
 class _GithubPageState extends State<GithubPage> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      appBar: AppBar(
+        title: Text("Hello"),
+      ),
+
+    );
   }
 }

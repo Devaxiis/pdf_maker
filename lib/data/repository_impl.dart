@@ -6,6 +6,10 @@ class RepositoryImpl implements Repository{
   @override
   void salom() {
     print("salom");
+    print("salom");
+    print("salom");
+    print("salom");
+    print("salom");
   }
 
 }

@@ -20,8 +20,11 @@ class _GithubPageState extends State<GithubPage> {
        children: [
          Text("Salom"),
          Text("nima gap"),
+         Text("Salom"),
          Text("nima gap"),
+         Text("Salom"),
          Text("nima gap"),
+         Text("Salom"),
          Text("nima gap"),
 
        ],

@@ -18,7 +18,12 @@ class _GithubPageState extends State<GithubPage> {
      children:[
        Row(
        children: [
-         Text("Salom")
+         Text("Salom"),
+         Text("Salom"),
+         Text("Salom"),
+         Text("Salom"),
+         Text("Salom"),
+
        ],
      ),
    ],

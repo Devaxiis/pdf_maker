@@ -14,7 +14,16 @@ class _GithubPageState extends State<GithubPage> {
       appBar: AppBar(
         title: Text("Hello"),
       ),
-
+   body: ListView(
+     children:[
+       Row(
+       children: [
+         Text("Salom")
+       ],
+     ),
+   ],
+   
+   )
     );
   }
 }

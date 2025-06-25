@@ -2,6 +2,10 @@
 
 import '../domain/repository.dart';
 
-class RepositoryImpl extends Repository{
+class RepositoryImpl implements Repository{
+  @override
+  void salom() {
+    // TODO: implement salom
+  }
 
 }

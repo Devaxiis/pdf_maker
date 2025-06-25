@@ -1,6 +1,6 @@
 
 
 
-class Repository{
-
+abstract class Repository{
+  void salom();
 }
